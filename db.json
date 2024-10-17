@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+       "id" : 1,
+       "tarefa": "Estudar Yoga",
+       "categoria": "bem-estar",
+       "concluido": false
+    },
+    {
+       "id" : 2,
+       "tarefa": "Cinema amanhã",
+       "categoria": "bem-estar",
+       "concluido": false
+    },
+    {
+       "id" : 3,
+       "tarefa": "Estudar C#",
+       "categoria": "falculdade",
+       "concluido": false
+    }
+  ]
+}
